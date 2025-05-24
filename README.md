@@ -1,5 +1,5 @@
 
-# Coup Game (C++) – GUI + Logic + Tests
+# Coup Game (C++)
 
 ## Project Overview
 
@@ -7,7 +7,7 @@ This project implements the board game **Coup** in C++ with:
 
 - A complete GUI using SFML
 - Full game logic, role mechanics, and turn handling
-- Robust unit tests written with doctest
+- Unit tests written with doctest
 - Verified to be memory-safe with Valgrind
 
 ---
