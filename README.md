@@ -23,7 +23,6 @@ Make sure the following are installed on your system:
 On Debian/Ubuntu, install with:
 
 ```bash
-sudo apt update
 sudo apt install g++ libsfml-dev valgrind
 ```
 
