@@ -20,7 +20,7 @@ Make sure the following are installed on your system:
 - **Valgrind** (for memory leak detection)
 - **doctest.h** (included in the repo or downloaded from [doctest GitHub](https://github.com/doctest/doctest))
 
-On Debian/Ubuntu (including Kali Linux), install with:
+On Debian/Ubuntu, install with:
 
 ```bash
 sudo apt update
