@@ -1,4 +1,3 @@
-
 # Coup Game (C++)
 
 ## Project Overview
@@ -9,6 +8,24 @@ This project implements the board game **Coup** in C++ with:
 - Full game logic, role mechanics, and turn handling
 - Unit tests written with doctest
 - Verified to be memory-safe with Valgrind
+
+---
+
+## Dependencies
+
+Make sure the following are installed on your system:
+
+- **g++** (with C++20 support)
+- **SFML** (Simple and Fast Multimedia Library)
+- **Valgrind** (for memory leak detection)
+- **doctest.h** (included in the repo or downloaded from [doctest GitHub](https://github.com/doctest/doctest))
+
+On Debian/Ubuntu (including Kali Linux), install with:
+
+```bash
+sudo apt update
+sudo apt install g++ libsfml-dev valgrind
+```
 
 ---
 
