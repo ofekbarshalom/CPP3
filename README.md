@@ -8,6 +8,7 @@ This project implements the board game **Coup** in C++ with:
 - Full game logic, role mechanics, and turn handling
 - Unit tests written with doctest
 - Verified to be memory-safe with Valgrind
+- Designed to practice C++ inheritance: each role class (e.g., Governor, Spy) inherits from the base Player class
 
 ---
 
